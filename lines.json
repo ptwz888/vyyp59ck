@@ -37,16 +37,16 @@
     "ttlHours": 12
   },
   "app": {
-    "versionCode": 214,
-    "versionName": "3.4",
+    "versionCode": 215,
+    "versionName": "3.5",
     "minSdk": 21,
-    "fileName": "guoguo-3.4.apk",
-    "size": 12204081,
-    "sha256": "169d7482db0044799c7fdc26058ae9cb88c37d6938e894c6296f465b6ce93547",
-    "notes": "v3.4：首页推荐重复修复、长按2倍速、边缘手势调音量/亮度、单剧清晰度记忆、搜索历史、看完自动接相关剧、换线路重试、应用内自有更新通道",
+    "fileName": "guoguo-3.5.apk",
+    "size": 12204995,
+    "sha256": "ce2cfeaaf36d86d0ee38bd0bd3d420f894ae5f9979594be348572344b6edfaaf",
+    "notes": "v3.5：我的收藏可删除、推荐流老剧换新会话重推、更新默认自动、修复过时文案",
     "urls": [
-      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.4.apk",
-      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.4.apk"
+      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.5.apk",
+      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.5.apk"
     ]
   }
 }
