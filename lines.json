@@ -37,16 +37,16 @@
     "ttlHours": 12
   },
   "app": {
-    "versionCode": 215,
-    "versionName": "3.5",
+    "versionCode": 216,
+    "versionName": "3.6",
     "minSdk": 21,
-    "fileName": "guoguo-3.5.apk",
-    "size": 12204995,
-    "sha256": "ce2cfeaaf36d86d0ee38bd0bd3d420f894ae5f9979594be348572344b6edfaaf",
-    "notes": "v3.5：我的收藏可删除、推荐流老剧换新会话重推、更新默认自动、修复过时文案",
+    "fileName": "guoguo-3.6.apk",
+    "size": 12204538,
+    "sha256": "30e746fac33592099f0d853b64355d4860a55882ff96f8924217ae694098c1ee",
+    "notes": "v3.6：修复冷启动首页黑屏近1分钟（恢复双源抢跑+按去重结果判定+立刻换新会话）",
     "urls": [
-      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.5.apk",
-      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.5.apk"
+      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.6.apk",
+      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.6.apk"
     ]
   }
 }
