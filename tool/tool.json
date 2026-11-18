@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "toolVersion": 101,
+  "versionName": "1.0.1",
+  "exe": {
+    "fileName": "guoguo-grab-gui.exe",
+    "size": 7062016,
+    "sha256": "d0af6e35db3a22061d6097756ae71d8fc89405d98d19088563a6ca4a09aa3ea6",
+    "urls": [
+      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/tool/guoguo-grab-gui.exe",
+      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/tool/guoguo-grab-gui.exe"
+    ]
+  },
+  "jar": {
+    "fileName": "guoguo-grab.jar",
+    "size": 12271364,
+    "sha256": "aaeaec3920067d54b34ff97d4ede227343022fd1ad22620b2849d14d017be215",
+    "urls": [
+      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/tool/guoguo-grab.jar",
+      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/tool/guoguo-grab.jar"
+    ]
+  }
+}
