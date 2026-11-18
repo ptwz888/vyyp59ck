@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "toolVersion": 102,
-  "versionName": "1.0.2-test",
+  "toolVersion": 101,
+  "versionName": "1.0.1",
   "exe": {
     "fileName": "guoguo-grab-gui.exe",
     "size": 7062016,
