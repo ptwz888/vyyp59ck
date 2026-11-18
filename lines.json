@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "updated": "2026-11-18",
+  "_note": "线路母版：App 按 upstream.urls 定时拉取（本地 lines.local.json > 上游 > 内置）。前两条是自己的发布仓库（lines-dist/ 一键推送），后两条盯作者仓库——他若发布 lines.json 就自动跟随。",
+  "hosts": [
+    "api5-normal-sinfonlineb.fqnovel.com",
+    "api5-normal-hl.fqnovel.com",
+    "api5-normal-lf.fqnovel.com"
+  ],
+  "paths": {
+    "single": "/novel/player/video_model/v1/",
+    "multi": "/novel/player/multi_video_model/v1/",
+    "videoTab": "/reading/bookapi/video_tab/multi_video_model/v1/",
+    "mobile": "/novel/player/multi_video_model/player/v1"
+  },
+  "identity": {
+    "versionCode": "73932",
+    "versionName": "7.3.9.32",
+    "playerVersionCode": "73532",
+    "playerVersionName": "7.3.5.32",
+    "mobileVersionCode": "74332",
+    "mobileVersionName": "7.4.3.32",
+    "channel": "vivo_8662_64",
+    "deviceType": "PGT-AN10",
+    "osVersion": "12",
+    "mobileHost": "api5-normal-sinfonlinea.fqnovel.com"
+  },
+  "upstream": {
+    "enabled": true,
+    "urls": [
+      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/lines.json",
+      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/lines.json",
+      "https://raw.githubusercontent.com/N3urda/hongguoTV/main/lines.json",
+      "https://ghfast.top/https://raw.githubusercontent.com/N3urda/hongguoTV/main/lines.json"
+    ],
+    "ttlHours": 12
+  }
+}
