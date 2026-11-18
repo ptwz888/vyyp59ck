@@ -37,16 +37,16 @@
     "ttlHours": 12
   },
   "app": {
-    "versionCode": 216,
-    "versionName": "3.6",
+    "versionCode": 217,
+    "versionName": "3.7",
     "minSdk": 21,
-    "fileName": "guoguo-3.6.apk",
-    "size": 12204538,
-    "sha256": "30e746fac33592099f0d853b64355d4860a55882ff96f8924217ae694098c1ee",
-    "notes": "v3.6：修复冷启动首页黑屏近1分钟（恢复双源抢跑+按去重结果判定+立刻换新会话）",
+    "fileName": "guoguo-3.7.apk",
+    "size": 12204649,
+    "sha256": "2db5f4222376419a379a69f6307df4fa4e08b7736fae167a0abd12c9b39a7a9a",
+    "notes": "v3.7：冷启动黑屏修复实测通过（15秒起播）、更新下载完成后自动弹安装确认、抓剧工具全面修复",
     "urls": [
-      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.6.apk",
-      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.6.apk"
+      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.7.apk",
+      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.7.apk"
     ]
   }
 }
