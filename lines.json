@@ -1,7 +1,8 @@
 {
   "schema": 1,
+  "exclusive": true,
   "updated": "2026-11-18",
-  "_note": "线路母版：App 按 upstream.urls 定时拉取（本地 lines.local.json > 上游 > 内置）。前两条是自己的发布仓库（lines-dist/ 一键推送），后两条盯作者仓库——他若发布 lines.json 就自动跟随。",
+  "_note": "线路母版（主修模式 exclusive=true：只要本文件给出域名就用它，不再拼接内置兜底域名）。App 按 upstream.urls 定时拉取；前两条是自己的发布仓库（lines-dist/ 一键推送），后两条盯作者仓库——他若发布 lines.json 就自动跟随。",
   "hosts": [
     "api5-normal-sinfonlineb.fqnovel.com",
     "api5-normal-hl.fqnovel.com",
