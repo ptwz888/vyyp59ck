@@ -37,16 +37,16 @@
     "ttlHours": 12
   },
   "app": {
-    "versionCode": 217,
-    "versionName": "3.7",
+    "versionCode": 218,
+    "versionName": "3.8",
     "minSdk": 21,
-    "fileName": "guoguo-3.7.apk",
-    "size": 12204649,
-    "sha256": "2db5f4222376419a379a69f6307df4fa4e08b7736fae167a0abd12c9b39a7a9a",
-    "notes": "v3.7：冷启动黑屏修复实测通过（15秒起播）、更新下载完成后自动弹安装确认、抓剧工具全面修复",
+    "fileName": "guoguo-3.8.apk",
+    "size": 12208906,
+    "sha256": "bcd6025bd993963ba5fec625f07ffdadfead0ff69045beaf9476995e8cee5f5e",
+    "notes": "v3.8：老用户冷启动黑屏修复（换新会话+首条补踢起播，实测8秒起播）",
     "urls": [
-      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.7.apk",
-      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.7.apk"
+      "https://ghfast.top/https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.8.apk",
+      "https://raw.githubusercontent.com/ptwz888/vyyp59ck/main/apk/guoguo-3.8.apk"
     ]
   }
 }
